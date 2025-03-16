@@ -30,7 +30,7 @@ export const CrispFramework = () => {
         tools: [
           { name: "ZoomInfo", logoUrl: "https://logo.clearbit.com/zoominfo.com" },
           { name: "Bombora", logoUrl: "https://logo.clearbit.com/bombora.com" },
-          { name: "Clearbit", logoUrl: "https://logo.clearbit.com/clearbit.com" },
+          { name: "Clearbit", logoUrl: "https://logo.clearbit.com/clay.com" },
           { name: "LinkedIn Sales Navigator", logoUrl: "https://logo.clearbit.com/linkedin.com" },
           { name: "Apollo.io", logoUrl: "https://logo.clearbit.com/apollo.io" }
         ],
