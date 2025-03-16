@@ -28,11 +28,11 @@ export const CrispFramework = () => {
           "📋 Create target account lists with key contacts"
         ],
         tools: [
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
           { name: "ZoomInfo", logoUrl: "https://logo.clearbit.com/zoominfo.com" },
-          { name: "Bombora", logoUrl: "https://logo.clearbit.com/bombora.com" },
-          { name: "Clearbit", logoUrl: "https://logo.clearbit.com/clay.com" },
-          { name: "LinkedIn Sales Navigator", logoUrl: "https://logo.clearbit.com/linkedin.com" },
-          { name: "Apollo.io", logoUrl: "https://logo.clearbit.com/apollo.io" }
+          { name: "Cognism", logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6a18wGwN7R5b3PsAHyeQ2cxkoCW9Tkx9Sg&s" },
+          { name: "Apollo", logoUrl: "https://logo.clearbit.com/apollo.io" },
+          { name: "LinkedIn Sales Nav", logoUrl: "https://logo.clearbit.com/linkedin.com" }
         ],
         color: "#5cb85c"
       },
@@ -47,9 +47,9 @@ export const CrispFramework = () => {
         tools: [
           { name: "Outreach", logoUrl: "https://logo.clearbit.com/outreach.io" },
           { name: "SalesLoft", logoUrl: "https://logo.clearbit.com/salesloft.com" },
-          { name: "Apollo", logoUrl: "https://logo.clearbit.com/apollo.io" },
-          { name: "Sendoso", logoUrl: "https://logo.clearbit.com/sendoso.com" },
-          { name: "Drift", logoUrl: "https://logo.clearbit.com/drift.com" }
+          { name: "Smartlead", logoUrl: "https://play-lh.googleusercontent.com/3TRenpb3zBDoRTurTpPFsmFPQYeByFoqKDxBIQ_nayEo3qUYw8bDiB0lYGUf9d3QiQ=w240-h480-rw" },
+          { name: "Instantly", logoUrl: "https://instantly.ai/blog/content/images/2024/05/cleaned_rounded.png" },
+          { name: "Apollo", logoUrl: "https://logo.clearbit.com/apollo.io" }
         ],
         color: "#5bc0de"
       },
@@ -62,11 +62,11 @@ export const CrispFramework = () => {
           "🗺️ Map prospect interactions across channels"
         ],
         tools: [
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
+          { name: "Segment", logoUrl: "https://logo.clearbit.com/segment.com" },
           { name: "Zapier", logoUrl: "https://logo.clearbit.com/zapier.com" },
-          { name: "Tray.io", logoUrl: "https://logo.clearbit.com/tray.io" },
           { name: "Workato", logoUrl: "https://logo.clearbit.com/workato.com" },
-          { name: "HubSpot Operations Hub", logoUrl: "https://logo.clearbit.com/hubspot.com" },
-          { name: "Segment", logoUrl: "https://logo.clearbit.com/segment.com" }
+          { name: "HubSpot Ops Hub", logoUrl: "https://logo.clearbit.com/hubspot.com" },
         ],
         color: "#f0ad4e"
       },
@@ -96,11 +96,9 @@ export const CrispFramework = () => {
           "📈 Build prospect scoring model"
         ],
         tools: [
-          { name: "Tableau", logoUrl: "https://logo.clearbit.com/tableau.com" },
-          { name: "Looker", logoUrl: "https://logo.clearbit.com/looker.com" },
-          { name: "Gong", logoUrl: "https://logo.clearbit.com/gong.io" },
-          { name: "Chorus", logoUrl: "https://logo.clearbit.com/chorus.ai" },
-          { name: "6sense", logoUrl: "https://logo.clearbit.com/6sense.com" }
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
+          { name: "Regie.ai", logoUrl: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vvssbtwrgcftdfhs9qrd" },
+          { name: "Unify", logoUrl: "https://pbs.twimg.com/profile_images/1747476759623163905/CYMRzpqc_400x400.png" },
         ],
         color: "#9370db"
       }
@@ -117,11 +115,10 @@ export const CrispFramework = () => {
           "🔍 Implement product usage analytics"
         ],
         tools: [
-          { name: "Google Analytics", logoUrl: "https://logo.clearbit.com/google.com" },
-          { name: "Heap", logoUrl: "https://logo.clearbit.com/heap.io" },
-          { name: "Hotjar", logoUrl: "https://logo.clearbit.com/hotjar.com" },
-          { name: "Clearbit", logoUrl: "https://logo.clearbit.com/clearbit.com" },
-          { name: "Mixpanel", logoUrl: "https://logo.clearbit.com/mixpanel.com" }
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
+          { name: "Chilipiper", logoUrl: "https://cdn.brandfetch.io/idcdtuW3vW/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" },
+          { name: "Default", logoUrl: "https://cdn.brandfetch.io/idddf2OT8b/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" },
+          { name: "LeanData", logoUrl: "https://cdn.brandfetch.io/idFXVkWdRq/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" }
         ],
         color: "#5cb85c"
       },
@@ -136,7 +133,6 @@ export const CrispFramework = () => {
         tools: [
           { name: "HubSpot", logoUrl: "https://logo.clearbit.com/hubspot.com" },
           { name: "Marketo", logoUrl: "https://logo.clearbit.com/marketo.com" },
-          { name: "Mailchimp", logoUrl: "https://logo.clearbit.com/mailchimp.com" },
           { name: "ActiveCampaign", logoUrl: "https://logo.clearbit.com/activecampaign.com" },
           { name: "Intercom", logoUrl: "https://logo.clearbit.com/intercom.io" }
         ],
@@ -151,11 +147,10 @@ export const CrispFramework = () => {
           "📈 Implement lead scoring system"
         ],
         tools: [
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
           { name: "Segment", logoUrl: "https://logo.clearbit.com/segment.com" },
           { name: "Zapier", logoUrl: "https://logo.clearbit.com/zapier.com" },
-          { name: "Tray.io", logoUrl: "https://logo.clearbit.com/tray.io" },
           { name: "Fivetran", logoUrl: "https://logo.clearbit.com/fivetran.com" },
-          { name: "Mulesoft", logoUrl: "https://logo.clearbit.com/mulesoft.com" }
         ],
         color: "#f0ad4e"
       },
@@ -168,11 +163,11 @@ export const CrispFramework = () => {
           "📝 Develop content engagement tracking"
         ],
         tools: [
+          { name: "Salesforce", logoUrl: "https://logo.clearbit.com/salesforce.com" },
           { name: "HubSpot", logoUrl: "https://logo.clearbit.com/hubspot.com" },
-          { name: "Customer.io", logoUrl: "https://logo.clearbit.com/customer.io" },
-          { name: "Amplitude", logoUrl: "https://logo.clearbit.com/amplitude.com" },
-          { name: "Segment", logoUrl: "https://logo.clearbit.com/segment.com" },
-          { name: "Snowflake", logoUrl: "https://logo.clearbit.com/snowflake.com" }
+          { name: "Pipedrive", logoUrl: "https://logo.clearbit.com/pipedrive.com" },
+          { name: "Close", logoUrl: "https://logo.clearbit.com/close.com" },
+          { name: "Freshsales", logoUrl: "https://logo.clearbit.com/freshworks.com" }
         ],
         color: "#d9534f"
       },
@@ -185,11 +180,9 @@ export const CrispFramework = () => {
           "🔄 Develop progressive profiling system"
         ],
         tools: [
-          { name: "Optimizely", logoUrl: "https://logo.clearbit.com/optimizely.com" },
-          { name: "Amplitude", logoUrl: "https://logo.clearbit.com/amplitude.com" },
-          { name: "VWO", logoUrl: "https://logo.clearbit.com/vwo.com" },
-          { name: "RightMessage", logoUrl: "https://logo.clearbit.com/rightmessage.com" },
-          { name: "Mutiny", logoUrl: "https://logo.clearbit.com/mutinyhq.com" }
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
+          { name: "Regie.ai", logoUrl: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vvssbtwrgcftdfhs9qrd" },
+          { name: "Unify", logoUrl: "https://pbs.twimg.com/profile_images/1747476759623163905/CYMRzpqc_400x400.png" },
         ],
         color: "#9370db"
       }
@@ -206,10 +199,10 @@ export const CrispFramework = () => {
           "💬 Track support ticket patterns"
         ],
         tools: [
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
           { name: "Pendo", logoUrl: "https://logo.clearbit.com/pendo.io" },
           { name: "Gainsight", logoUrl: "https://logo.clearbit.com/gainsight.com" },
           { name: "Mixpanel", logoUrl: "https://logo.clearbit.com/mixpanel.com" },
-          { name: "Delighted", logoUrl: "https://logo.clearbit.com/delighted.com" },
           { name: "UserVoice", logoUrl: "https://logo.clearbit.com/uservoice.com" }
         ],
         color: "#5cb85c"
@@ -240,9 +233,9 @@ export const CrispFramework = () => {
           "💰 Sync billing data to customer health"
         ],
         tools: [
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
           { name: "Segment", logoUrl: "https://logo.clearbit.com/segment.com" },
           { name: "Zapier", logoUrl: "https://logo.clearbit.com/zapier.com" },
-          { name: "Tray.io", logoUrl: "https://logo.clearbit.com/tray.io" },
           { name: "Workato", logoUrl: "https://logo.clearbit.com/workato.com" },
           { name: "Boomi", logoUrl: "https://logo.clearbit.com/boomi.com" }
         ],
@@ -258,10 +251,10 @@ export const CrispFramework = () => {
         ],
         tools: [
           { name: "Salesforce", logoUrl: "https://logo.clearbit.com/salesforce.com" },
-          { name: "Gainsight", logoUrl: "https://logo.clearbit.com/gainsight.com" },
-          { name: "Totango", logoUrl: "https://logo.clearbit.com/totango.com" },
-          { name: "Planhat", logoUrl: "https://logo.clearbit.com/planhat.com" },
-          { name: "ClientSuccess", logoUrl: "https://logo.clearbit.com/clientsuccess.com" }
+          { name: "HubSpot", logoUrl: "https://logo.clearbit.com/hubspot.com" },
+          { name: "Pipedrive", logoUrl: "https://logo.clearbit.com/pipedrive.com" },
+          { name: "Close", logoUrl: "https://logo.clearbit.com/close.com" },
+          { name: "Freshsales", logoUrl: "https://logo.clearbit.com/freshworks.com" }
         ],
         color: "#d9534f"
       },
@@ -274,7 +267,7 @@ export const CrispFramework = () => {
           "📈 Develop propensity to buy/expand models"
         ],
         tools: [
-          { name: "Mixpanel", logoUrl: "https://logo.clearbit.com/mixpanel.com" },
+          { name: "Clay", logoUrl: "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png" },
           { name: "Totango", logoUrl: "https://logo.clearbit.com/totango.com" },
           { name: "Gainsight", logoUrl: "https://logo.clearbit.com/gainsight.com" },
           { name: "Pendo", logoUrl: "https://logo.clearbit.com/pendo.io" },
