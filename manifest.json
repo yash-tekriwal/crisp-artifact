@@ -1,21 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Crisp",
+  "name": "Crisp Framework",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "https://cdn.brandfetch.io/idBx-psh22/w/183/h/134/theme/dark/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B",
+      "sizes": "183x134",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
